@@ -17,5 +17,7 @@ chm [command] [options]
 
 Command:
 
-init: Install and configure apache, mysql, phpmyadmin
-host: Create a user and configure virtualhost, home directory, logs
++ init: Install and configure apache, mysql, phpmyadmin
+  - Options:
+  - a: Add some app
++ host: Create a user and configure virtualhost, home directory, logs
