@@ -1,7 +1,9 @@
 # chm - Console Host Manager
 
 
-A toolkit to console host manager of CentOS 6.
+CHM is a toolkit to simplify hosting management in CentOS.
+
+> Do you have a VPS o Dedicated server and need a light solution to management your host? CHM is for you
 
 
 ## Install
