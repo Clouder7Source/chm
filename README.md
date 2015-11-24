@@ -11,6 +11,8 @@ rpm -ivh
 
 ## Features
 - Automatic install and configuration a CentOS 6 minimal installation with apache, mysql and other common tools, using the best practices of performance, secure and compatibility.
+- Configure local time
+- Configure monitor logwatch
 - Secure configuration with iptables, failtoban
 - Tool to create virtualhost of Apache
 
