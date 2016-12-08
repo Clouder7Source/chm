@@ -7,8 +7,8 @@ CHM is a toolkit to simplify hosting management in CentOS.
 
 - Automatic install and configuration common tools ready to host sites in PHP and or JAVA, using the best practices of performance, secure and compatibility.
 - Configure local time
-- Configure monitor logwatch
-- Secure configuration with iptables, failtoban
+- Configure monitor (logwatch)
+- Secure configuration with firewall (iptables and failtoban)
 - Tool to create virtualhost of Apache
 
 ## Install
