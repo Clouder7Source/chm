@@ -5,10 +5,10 @@ CHM is a toolkit to simplify hosting management in CentOS.
 
 > Do you have a VPS o Dedicated server and need a light solution to management your host? CHM is for you! :rocket:
 
-- Automatic install and configuration common tools ready to host sites in PHP and or JAVA, using the best practices of performance, secure and compatibility.
+- Automatic install and configuration common tools ready to host sites in PHP and/or JAVA, using the best practices of performance, secure and compatibility.
 - Configure local time
 - Configure monitor (logwatch)
-- Secure configuration with firewall (iptables and failtoban)
+- Secure configuration with firewall (iptables and fail2ban)
 - Tool to create virtualhost of Apache
 
 ## Install
